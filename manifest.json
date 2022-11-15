@@ -1,0 +1,22 @@
+{
+    "name": "THE ANGKRINGAN",
+    "short_name": "Aplikasi angkringan",
+    "description": "Aplikasi angkringan sederhana dengan javascript PWA",
+    "icons": [
+        {
+        "src": "assets/images/warjok.png",
+        "sizes": "512x512",
+        "type": "image/png"
+        },
+        {
+        "src": "assets/images/warjok-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#1F3641",
+    "background_color": "#ffffff",
+    "prefer_related_applications": false
+}
